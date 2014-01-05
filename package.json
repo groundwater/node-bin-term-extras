@@ -1,0 +1,10 @@
+{
+  "name": "bin-term-extras",
+  "version": "0.0.0",
+  "description": "Extra terminal comands",
+  "bin": {
+    "clear": "clear.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
